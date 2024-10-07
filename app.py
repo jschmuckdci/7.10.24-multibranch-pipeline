@@ -1,5 +1,6 @@
 def main():
-    print("Welcome to Python multibranch project. This is master branch")
+    print("============feature=============")
+    return "This is from feature branch."
 
 if __name__=="__main__":
     main()
